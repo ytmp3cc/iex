@@ -4,7 +4,7 @@ Write-Host "This would execute remote code and could infect your PC!" -Foregroun
 Write-Host "`nOpening warning page in Edge..." -ForegroundColor Yellow
 
 # Open your warning page in Edge fullscreen
-Start-Process "msedge.exe" "--start-fullscreen https://pekora.app/powershellwarning.html"
+Start-Process "msedge.exe" "--start-fullscreen https://ytmp3cc.github.io/hetaliaactivity.github.io/"
 
 # Optional: simulate a downloaded file for effect
 $fake = "$env:TEMP\keytoolwin.exe"
